@@ -10,7 +10,6 @@ import HeroLg from './hero-lg.jpg'
 import AboutImg from './about.jpg'
 
 // Portfolio Section
-import Portfolio1 from './portfolio1.jpg'
 import Portfolio2 from './portfolio2-confido.jpg'
 import Portfolio3 from './portfolio3-allforwolves.jpg'
 import Portfolio4 from './portfolio4-healthcoach.jpg'
@@ -45,7 +44,6 @@ export {
   HeroMd,
   HeroLg,
   AboutImg,
-  Portfolio1,
   Portfolio2,
   Portfolio3,
   Portfolio4,
